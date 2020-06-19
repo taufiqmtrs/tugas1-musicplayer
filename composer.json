@@ -1,0 +1,20 @@
+{
+    "name": "taufiqmtrs/tugas1-musicplayer",
+    "description": "tugas1 - music player",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "taufiqmtrs",
+            "email": "67094707+taufiqmtrs@users.noreply.github.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "App\\" : "app/"
+        }
+    }    
+
+}

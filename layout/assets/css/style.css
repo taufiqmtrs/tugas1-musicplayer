@@ -1,0 +1,61 @@
+
+
+.container {
+	width: 1020px;
+	margin: auto;
+
+}
+
+
+
+.header {
+	margin-bottom: 10px;
+
+}
+
+.menu a {
+	padding: 10px;
+	background: #8bddf9;
+	color: #8700a9;
+	text-decoration: none;
+
+}
+
+.menu a:hover {
+	background: #8700a9;
+	color: #8bddf9;
+}
+
+
+table{
+	border: 0px solid #ccc;
+	border-collapse: collapse;
+}
+
+
+table th{
+	border: 1px solid #ccc;
+	padding: 10px;
+	background-color: #b7dfeb;
+	color: black;
+	font-size: 12px;
+}
+
+
+
+table td{
+	border-bottom: 1px solid #8700a9;
+	padding: 10px;
+	background-color: #fff;
+	text-align: center;
+}
+
+a {
+	background: #8bddf9;
+	padding: 5px;
+	text-decoration: none;
+}
+
+
+
+
